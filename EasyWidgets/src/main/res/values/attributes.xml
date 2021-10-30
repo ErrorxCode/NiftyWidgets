@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="EasyRadioButton">
-        <attr name="title" format="string"/>
-        <attr name="description" format="string"/>
-        <attr name="isButtonHidden" format="boolean"/>
-        <attr name="isR2L" format="boolean"/>
-    </declare-styleable>
-</resources>
