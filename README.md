@@ -82,6 +82,14 @@ All you have to do is just apply the styles. These are the following styles
 - ModernRed
 - ModernBlue
 
+***Note : Don't use tag attribute when using these styles***
+
+**RadioButtonUtils**
+
+If you are using `ModernQuiz` or `ClassicQuiz` style as options for the quiz app, then you can make use of this class. This class help you to highlight options.
+if selected option is correct, then call `EasyRadioUtils.setCorrect(Radiobutton button)` passing radiobutton to make it look correct. To highlight wrong option,
+call `EasyRadioUtils.setWrong(RadioButton button);` passing the current selected radiobutton. If you want to add sound effect to options then use `EasyRadioUtils.setSoundEffect(group,true,true,true);.`
+
 **Spinner**
 ```java
    Spinner spinner = findViewById(R.id.spinner); // Use default spinner,Just need to use this adapter.
