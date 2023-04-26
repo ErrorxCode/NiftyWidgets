@@ -1,4 +1,4 @@
-# EasyWidgets ~ Android UI library
+# NiftyWidgets ~ Android UI library
 <p align="left">
   <a href="#"><img alt="Languages-Java" src="https://img.shields.io/badge/Language-Java-1DA1F2?style=flat-square&logo=java"></a>
   <a href="https://www.instagram.com/x0.rahil/"><img alt="Instagram - x__coder__" src="https://img.shields.io/badge/Instagram-x____coder____x-lightgrey"></a>
